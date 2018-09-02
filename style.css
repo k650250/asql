@@ -1,0 +1,25 @@
+table{
+    margin:100px auto;
+}
+tr:nth-child(even){
+    background:#F2F2F2;
+}
+th{
+    background:#222222;
+    color:white;
+}
+th:nth-child(odd){
+    background:#444444;
+}
+th,td{
+    padding:5px;
+    font-size:small;
+}
+td {
+	color: teal;
+	text-align: right;
+}
+td.String, td.DateTime  {
+	color: mediumvioletred;
+	text-align: left;
+}
