@@ -1,2 +1,11 @@
+-*- coding: cp932-dos -*-
 # asql
-SQLãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰MS-Accessãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹ãƒ•ã‚¡ã‚¤ãƒ«ï¼ˆ.mdbï¼‰ã‚’ä½œæˆï¼ç·¨é›†
+SQLƒtƒ@ƒCƒ‹‚©‚çMS-Accessƒf[ƒ^ƒx[ƒXƒtƒ@ƒCƒ‹i.mdbj‚ðì¬^•ÒW
+
+SQLƒtƒ@ƒCƒ‹‚ÌƒTƒ“ƒvƒ‹uiroha.sqlv‚ð
+- u_ExcelƒuƒbƒN‚Æ‚µ‚Äo—Í.batv
+- u_XHTML‚Æ‚µ‚Äo—Í.batv
+- u_ƒeƒLƒXƒg•¶‘‚Æ‚µ‚Äo—Í.batv
+‚Ì‰½‚ê‚©‚Ìƒtƒ@ƒCƒ‹‚Éƒhƒ‰ƒbƒO•ƒhƒƒbƒv‚·‚é‚Æ
+MS-Accessƒf[ƒ^ƒx[ƒXƒtƒ@ƒCƒ‹uiroha.mdbv‚ª
+¶¬‚³‚ê‚éB
