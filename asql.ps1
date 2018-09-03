@@ -1,3 +1,4 @@
+@rem -*- coding: cp932-dos -*-
 Param([Parameter(ValueFromPipeline=$True)]$FilePath, $DB_FilePath, $ExportToDirectoryPath = '.\', [System.String]$Delimiter, [System.String]$Encoding = 'Default', $XlWBATemplate = -4167, [System.Int32]$XlFileFormat = 51, [switch]$SkipErrors, [switch]$ExportPlainText, [switch]$ExportCSV, [switch]$ExportJSON, [switch]$ExportClixml, [switch]$ExportXHTML, [Array]$XHTML_CSSFilePath, [Array]$XHTML_JavaScriptFilePath, [Array]$XHTML_VBScriptFilePath, [System.String]$XHTML_AnchorTarget, [switch]$ExportExcelBook, [switch]$ShowExports, [switch]$GridView, [switch]$Version)
 if ($Version) {
 	Write-Output 'asql Ver 1.1.26770804'
